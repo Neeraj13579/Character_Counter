@@ -1,6 +1,6 @@
 # Real-Time Character Counter
 
-A simple **Real-Time Character Counter** web application that tracks the number of characters typed in a textarea. It dynamically updates the total and remaining character count while displaying a warning when the limit is reached.
+A simple **Real-Time Character Counter** web page that tracks the number of characters typed in a textarea. It dynamically updates the total and remaining character count while displaying a warning when the limit is reached.
 
 ## Features
 
